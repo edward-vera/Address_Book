@@ -1,0 +1,20 @@
+.users {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  margin: 10px;
+}
+
+.user {
+  display: flex;
+  text-align: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.userInfo {
+  margin: 15px;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+}
